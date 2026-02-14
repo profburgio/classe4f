@@ -1,0 +1,12 @@
+.box__card h1 {
+  color: red;
+  font-family: "Playwrite NZ Basic", cursive;
+  font-size: 70px;
+  font-weight: bold;
+}
+@media (max-width: 600px) {
+  .box__card h1 {
+    font-size: 45px;
+    font-weight: bold;
+  }
+}/*# sourceMappingURL=main.css.map */

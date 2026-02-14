@@ -1,0 +1,12 @@
+@import 'fonts';
+.box
+{
+    &__card
+    {
+        h1
+        {
+            color: red;
+            @include title;
+        }
+    }
+}

@@ -1,0 +1,11 @@
+@mixin title
+{
+    font-family: "Playwrite NZ Basic", cursive;
+    font-size: 70px;
+    font-weight: bold;
+    @media (max-width: 600px) 
+    {
+        font-size: 45px;
+        font-weight: bold;
+    }
+}
